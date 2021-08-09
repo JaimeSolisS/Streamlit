@@ -14,7 +14,7 @@ st.image('https://github.com/allisonhorst/palmerpenguins/blob/master/man/figures
 st.sidebar.header('User Input Features')
 
 st.sidebar.markdown("""
-[Example CSV input file](https://raw.githubusercontent.com)
+[Example CSV input file](https://raw.githubusercontent.com/JaimeSolisS/Streamlit/master/Penguin%20Classification/example.csv)
 """)
 
 # Collects user input features into dataframe
